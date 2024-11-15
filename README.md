@@ -1,4 +1,4 @@
-# Travel Tracker
+# Global Explorer Tracker
 
 This is a simple web application that allows users to keep track of the countries they have visited. It uses Node.js, Express, and PostgreSQL to create a backend API that interacts with a database of countries and visited countries.
 
@@ -22,16 +22,15 @@ This is a simple web application that allows users to keep track of the countrie
 1. **Clone the repository**:
 ```bash
    git clone 
-   
    ```
 2. **Install dependencies**:
  ```bash
-   cd  
+   cd your-folder
    npm install
    ```
     OR
 ```bash
-   cd 
+   cd your-folder
    npm i
    ```
 3. **Set up the PostgreSQL database**:
