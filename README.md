@@ -21,7 +21,7 @@ This is a simple web application that allows users to keep track of the countrie
 
 1. **Clone the repository**:
 ```bash
-   git clone 
+   git clone https://github.com/avi-poptani-003/Global-Explorer-Tracker.git
    ```
 2. **Install dependencies**:
  ```bash
